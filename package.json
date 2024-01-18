@@ -1,0 +1,29 @@
+{
+  "name": "f8_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiemledo/NodeJS-setup.git"
+  },
+  "keywords": [
+    "nodejssetup"
+  ],
+  "author": "nghiemledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nghiemledo/NodeJS-setup/issues"
+  },
+  "homepage": "https://github.com/nghiemledo/NodeJS-setup#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
